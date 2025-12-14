@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765629969 source:d:\iti telecom application development\07 data strecture\labs\day5lab1\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+

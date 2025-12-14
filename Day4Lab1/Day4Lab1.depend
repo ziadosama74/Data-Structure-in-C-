@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1765590912 source:d:\iti telecom application development\07 data strecture\labs\day4lab1\src\bst.cpp
+
+1765590799 source:d:\iti telecom application development\07 data strecture\labs\day4lab1\src\employee.cpp
+
+1765590848 source:d:\iti telecom application development\07 data strecture\labs\day4lab1\src\node.cpp
+
+1765624012 source:d:\iti telecom application development\07 data strecture\labs\day4lab1\main.cpp
+	<iostream>
+	"BST.h"
+
+1765591133 d:\iti telecom application development\07 data strecture\labs\day4lab1\include\bst.h
+	"Node.h"
+	"Employee.h"
+
+1765624046 d:\iti telecom application development\07 data strecture\labs\day4lab1\include\node.h
+	"Employee.h"
+
+1765590827 d:\iti telecom application development\07 data strecture\labs\day4lab1\include\employee.h
+	<iostream>
+	<string>
+
