@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1765141156 source:d:\iti telecom application development\07 data strecture\labs\day2lab3\main.cpp
+	<iostream>
+	"CircularQueue.h"
+
+1765129823 source:d:\iti telecom application development\07 data strecture\labs\day2lab3\src\circularqueue.cpp
+
+1765141233 d:\iti telecom application development\07 data strecture\labs\day2lab3\include\circularqueue.h
+	<iostream>
+
+1765129823 source:d:\iti telecom application development\07 data strecture\labs\day2lab5\src\circularqueue.cpp
+
+1765143448 source:d:\iti telecom application development\07 data strecture\labs\day2lab5\main.cpp
+	<iostream>
+	"CircularQueue.h"
+
+1765143639 d:\iti telecom application development\07 data strecture\labs\day2lab5\include\circularqueue.h
+	<iostream>
+

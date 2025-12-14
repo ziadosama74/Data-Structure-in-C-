@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765285220 source:d:\iti telecom application development\07 data strecture\labs\day3lab4\src\linkedlist.cpp
+
+1765285372 source:d:\iti telecom application development\07 data strecture\labs\day3lab4\src\node.cpp
+
+1765286118 source:d:\iti telecom application development\07 data strecture\labs\day3lab4\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765286339 d:\iti telecom application development\07 data strecture\labs\day3lab4\include\linkedlist.h
+	"Node.h"
+
+1765285386 d:\iti telecom application development\07 data strecture\labs\day3lab4\include\node.h
+	<iostream>
+
