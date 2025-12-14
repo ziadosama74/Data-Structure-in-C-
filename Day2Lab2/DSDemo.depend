@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1765011947 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765011960 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\node.cpp
+
+1765014732 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765014645 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\node.cpp
+
+1765095319 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\stack.cpp
+
+1765124910 source:d:\iti telecom application development\07 data strecture\labs\day2lab1\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+	"StackLinkedList.h"
+
+1765125039 d:\iti telecom application development\07 data strecture\labs\day2lab1\include\linkedlist.h
+	"Node.h"
+
+1765123488 d:\iti telecom application development\07 data strecture\labs\day2lab1\include\node.h
+	<iostream>
+
+1765125893 d:\iti telecom application development\07 data strecture\labs\day2lab1\include\stack.h
+
+1765112520 source:d:\iti telecom application development\07 data strecture\labs\day2lab1\src\linkedlist.cpp
+
+1765112520 source:d:\iti telecom application development\07 data strecture\labs\day2lab1\src\node.cpp
+
+1765123512 source:d:\iti telecom application development\07 data strecture\labs\day2lab1\src\stacklinkedlist.cpp
+
+1765125129 d:\iti telecom application development\07 data strecture\labs\day2lab1\include\stacklinkedlist.h
+	"Node.h"
+	"LinkedList.h"
+
+1765112520 source:d:\iti telecom application development\07 data strecture\labs\day2lab2\src\linkedlist.cpp
+
+1765112520 source:d:\iti telecom application development\07 data strecture\labs\day2lab2\src\node.cpp
+
+1765128877 source:d:\iti telecom application development\07 data strecture\labs\day2lab2\main.cpp
+	<iostream>
+	"QueueLinkedList.h"
+
+1765126364 source:d:\iti telecom application development\07 data strecture\labs\day2lab2\src\queuelinkedlist.cpp
+
+1765128683 d:\iti telecom application development\07 data strecture\labs\day2lab2\include\queuelinkedlist.h
+	"LinkedList.h"
+
+1765128248 d:\iti telecom application development\07 data strecture\labs\day2lab2\include\linkedlist.h
+	"Node.h"
+
+1765123488 d:\iti telecom application development\07 data strecture\labs\day2lab2\include\node.h
+	<iostream>
+
